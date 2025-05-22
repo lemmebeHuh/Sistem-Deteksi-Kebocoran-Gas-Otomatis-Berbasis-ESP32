@@ -4,7 +4,7 @@ Proyek ini bertujuan untuk merancang dan mengimplementasikan sistem pendeteksi k
 
 Sistem ini diharapkan dapat menjadi solusi preventif yang sederhana namun efektif untuk mencegah kecelakaan akibat kebocoran gas, terutama di area rumah tangga, apartemen, dan tempat usaha kecil.
 
-#Fitur Utama:
+##Fitur Utama:
 -Deteksi kebocoran gas real-time
 -Alarm bunyi dan visual melalui buzzer dan LED
 -Tampilan status gas dan kadar PPM di layar LCD
@@ -12,7 +12,7 @@ Sistem ini diharapkan dapat menjadi solusi preventif yang sederhana namun efekti
 -Web monitoring lokal berbasis WiFi
 -Kontrol manual lampu darurat dari web
 
-#Anggota Kelompok:
+##Anggota Kelompok:
 1. Agista Valomita – 1222307
 2. Ilman Irawan – 1222302
 3. Delia Rismawati – 1222301
